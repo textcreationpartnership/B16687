@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Admiral Russel's scowering the French fleet: or, The battle at sea.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16687</idno><idno type="EEBO-CITATION">99888000</idno>
+  <idno type="VID">200573</idno>
+  <idno type="EEBO-PROQUEST">2264221713</idno>
+  
+            <idno type="STC">Wing A588B</idno>
+            <idno type="STC">Interim Tract Supplement Guide *f Mus 9713.692f[22]</idno>
+            <idno type="STC">ESTC R228798</idno>
+            <idno type="PROQUEST">ocm99888000</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888000e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200573)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A7:1[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Admiral Russel's scowering the French fleet: or, The battle at sea.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Moore,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Thursday in the morn the Ides of Mar,".</note>
+                  <note>Place of publication from Wing CD-ROM.</note>
+                  <note>Reproduction of original at Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Songs, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:200573:1"/>
+            <pb facs="tcp:200573:1"/>
+            <head>Admiral <hi>Russel</hi>'s Scowering The French Fleet: OR, The Battle at SEA.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <lg>
+               <l>
+                  <hi>THursday</hi> in the Morn the Ides of <hi>M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi>
+               </l>
+               <l>Recorded for ever the famous <hi>Ninety-Two,</hi>
+               </l>
+               <l>Brave <hi>Russel</hi> did d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn by dawn of day,</l>
+               <l>The lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty Sa<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>France</hi> advancing now:</l>
+               <l>All h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds alo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, alo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, let <hi>English</hi> Valour shine,</l>
+               <l>Let <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y a Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, the signal of the Line;</l>
+               <l>Let ev'ry▪ hand supply <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gun,</l>
+               <l>Follow me, and you'll see</l>
+               <l>That the Bot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le will be soon begun, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Turvil</hi> o'er the Main triumphant rowl'd,</l>
+               <l>To meet the gal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant <hi>Russel</hi> in Combat on the Deep;</l>
+               <l>He led the noble Train of Heroes bold,</l>
+               <l>To sink the <hi>English</hi> Admiral at his Feet.</l>
+               <l>Now ev'ry Vali<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t Mind to Victory does aspire,</l>
+               <l>The bloudy Figh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s begun, the Sea it self on fire,</l>
+               <l>And mights Fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e stood looking on,</l>
+               <l>Whilst a flo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d all of Bloud,</l>
+               <l>Fill'd the Port-holes of the <hi>Royal Sun.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sulphur, Smoak and Fire disturb'd the Air,</l>
+               <l>With Thunder and Wonder t'affright the <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llie</hi> Shore,</l>
+               <l>Their regulated Sands stood trembling near,</l>
+               <l>To see their lofty Streamers now no more:</l>
+               <l>At six a Clock the Red, the smiling Victor led,</l>
+               <l>To give a second blow, the total overthrow;</l>
+               <l>Now Death and Horrour equal Reign,</l>
+               <l>Now they cry, run or dye,</l>
+               <l>
+                  <hi>British</hi> Colour<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ride the vanquish'd Main.</l>
+            </lg>
+            <lg>
+               <l>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e they run <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z'd through Rocks and S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</l>
+               <l>One danger <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> grasp <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o shun a greater Fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>In vain they cry for Aid to weeping Lands.</l>
+               <l>The N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mphs and Sea God mourn their lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ate▪</l>
+               <l>For ever-more adie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou Royal daz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing <hi>S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi>
+               </l>
+               <l>From th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> untimely E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Master's Fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e begun,</l>
+               <l>Enough thou mighty God of VVar,</l>
+               <l>Now we sing, <hi>Bless the King▪</hi>
+               </l>
+               <l>Let us drink to ev'ry <hi>En<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lish</hi> Tar.</l>
+            </lg>
+            <lg>
+               <l>Come jolly Seamen all with <hi>Russ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> go,</l>
+               <l>And sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on the Main proud M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsieur for to greet,</l>
+               <l>And give our Enemy a second Blow,</l>
+               <l>And fight <hi>Turvil</hi> if that he dare to meet,</l>
+               <l>Come Brother Tar, what chear? let each his Gun supply▪</l>
+               <l>And thump them off this year, or make Mons. to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y,</l>
+               <l>VVhile we do range the Ocean round,</l>
+               <l>Day or Night we will fight,</l>
+               <l>VVhen our Enemy is to be sound.</l>
+            </lg>
+            <lg>
+               <l>Let it ne'er be said that <hi>Englis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Should ere stay behind when our Admiral does go,</l>
+               <l>But let each honest Lad cry with one Voice,</l>
+               <l>Brave <hi>Russel</hi> leads us on to fight the Foe,</l>
+               <l>We'l give them Gun for Gun, some sink, and others <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Broad-sides we'll give them too, till Monsi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Des <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gletars</hi> vill kill us all,</l>
+               <l>VVhi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they scower, we will pour,</l>
+               <l>Thick as Hail amongst them Cannon-Ball.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed and Sold by <hi>T. Moore▪</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
